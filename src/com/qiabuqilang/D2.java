@@ -6,10 +6,8 @@ class ListNode {
      ListNode() {}
      ListNode(int val) { this.val = val; }
      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-
-    
 }
-
+//2. Add Two Numbers
 public class D2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
       int odds = 0;
