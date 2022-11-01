@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d541c8-28c1-4201-b8c1-b9c134c95b8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiabuqilang/D255.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qiabuqilang/D225.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +208,7 @@
       <workItem from="1667095354391" duration="9847000" />
       <workItem from="1667179509453" duration="12925000" />
       <workItem from="1667206960231" duration="2656000" />
-      <workItem from="1667271670613" duration="5428000" />
+      <workItem from="1667271670613" duration="5751000" />
     </task>
     <servers />
   </component>
@@ -246,11 +244,6 @@
           <url>file://$PROJECT_DIR$/src/com/qiabuqilang/D32.java</url>
           <line>81</line>
           <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/qiabuqilang/D255.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

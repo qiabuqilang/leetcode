@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class D255 {
+public class D225 {
     public static void main(String[] args) {
         /*Queue<Integer> queue = new LinkedList<>();
         queue.add(1);
