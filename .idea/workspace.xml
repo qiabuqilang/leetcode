@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74d541c8-28c1-4201-b8c1-b9c134c95b8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/qiabuqilang/D255.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qiabuqilang/D225.java" afterDir="false" />
-    </list>
+    <list default="true" id="74d541c8-28c1-4201-b8c1-b9c134c95b8f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +86,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Application.D255">
+  <component name="RunManager" selected="Application.D232">
     <configuration name="D20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qiabuqilang.D20" />
       <module name="leetcode" />
@@ -102,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qiabuqilang.D23" />
+    <configuration name="D232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qiabuqilang.D232" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -168,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.D23" />
       <item itemvalue="Application.D24" />
       <item itemvalue="Application.D20" />
       <item itemvalue="Application.D32" />
       <item itemvalue="Application.D255" />
+      <item itemvalue="Application.D232" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.D232" />
         <item itemvalue="Application.D255" />
         <item itemvalue="Application.D32" />
         <item itemvalue="Application.D20" />
         <item itemvalue="Application.D24" />
-        <item itemvalue="Application.D23" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +206,7 @@
       <workItem from="1667095354391" duration="9847000" />
       <workItem from="1667179509453" duration="12925000" />
       <workItem from="1667206960231" duration="2656000" />
-      <workItem from="1667271670613" duration="5751000" />
+      <workItem from="1667271670613" duration="6511000" />
     </task>
     <servers />
   </component>
